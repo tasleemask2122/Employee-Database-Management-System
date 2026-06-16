@@ -1,18 +1,18 @@
 # Employee Database Management System (SQL)
 
-## 📌 Project Description
+## Project Description
 This project is an Employee Database Management System developed using SQL.  
 It performs various database operations such as creating tables, inserting records, updating data, deleting records, and performing analytical queries like grouping and aggregation.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - SQL (SQLite / MySQL)
 - DB Browser for SQLite (or any SQL tool)
 
 ---
 
-## 📊 Database Table
+##  Database Table
 ### Employee Table
 - Emp_ID (Primary Key)
 - Emp_Name
@@ -23,7 +23,7 @@ It performs various database operations such as creating tables, inserting recor
 
 ---
 
-## 🔑 Features Implemented
+##  Features Implemented
 - Create and Drop Table
 - Insert Employee Records
 - Select Queries (Search, Filter, Display)
@@ -48,7 +48,7 @@ It performs various database operations such as creating tables, inserting recor
 
 ---
 
-## 📌 Sample Output
+##  Sample Output
 Employee records can be viewed using:
 ```sql
 SELECT * FROM Employee;
